@@ -1,0 +1,15 @@
+{
+  "name": "playable-ad-analyzer",
+  "version": "9.0.0",
+  "description": "Cocos Creator Playable Ad Analyzer & Optimizer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":   "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["cocos", "playable-ad", "optimizer", "analyzer"],
+  "license": "MIT"
+}
